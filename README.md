@@ -1,1 +1,1 @@
-# kominfo-
+# kominfo-login-page
